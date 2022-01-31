@@ -1,2 +1,5 @@
 logs_level = "info"
 bind_addr = ":8082"
+
+[store]
+database_url = "yahat:yahat@/gotest"
