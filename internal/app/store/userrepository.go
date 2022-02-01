@@ -11,6 +11,13 @@ type UserRepository struct {
 
 // Create ...
 func (r *UserRepository) Create(u *model.User) (*model.User, error) {
+	if err := u.Validate(); err != nil {
+		return nil, err
+	}
+
+	if err := u.BeforeCreate(); err != nil {
+		return nil, err
+	}
 
 	result, err := r.store.db.Exec("insert into users (email, encrypted_password) values (? ,?)", u.Email, u.EncryptedPassword)
 	if err != nil {
