@@ -1,8 +1,9 @@
 # gopherSchool
 
 Часть 1: Веб-сервер, https://www.youtube.com/watch?v=LxJLuW5aUDQ <br>
-Часть 2: Работа с БД (вариант MYSQL),https://www.youtube.com/watch?v=7oEZaljP7uY <br>
+Часть 2: Работа с БД (вариант MYSQL), https://www.youtube.com/watch?v=7oEZaljP7uY <br>
 Часть 3: Валидация данных, https://www.youtube.com/watch?v=vK8UY9fqLSY <br>
+Часть 4: Небольшой рефакторинг, https://www.youtube.com/watch?v=vDHWUtkPzW4&t=5s
 
 Миграция
 
