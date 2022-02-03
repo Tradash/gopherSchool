@@ -1,3 +1,4 @@
 logs_level = "info"
 bind_addr = ":8082"
 database_url = "yahat:yahat@/gotest"
+session_key = "1234567890"
