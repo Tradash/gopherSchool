@@ -5,6 +5,8 @@
 Часть 3: Валидация данных, https://www.youtube.com/watch?v=vK8UY9fqLSY <br>
 Часть 4: Небольшой рефакторинг, https://www.youtube.com/watch?v=vDHWUtkPzW4&t=5s <br>
 Часть 5: Регистрация и аутентификация, https://www.youtube.com/watch?v=y2M0JvI8Cgg <br>
+Часть 6: Middleware-компоненты, https://www.youtube.com/watch?v=XdsTmic2Ruo <br>
+
 
 Миграция
 
